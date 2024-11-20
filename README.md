@@ -1,6 +1,5 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
-
+# EX.NO:05 Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
+   
 Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
 
@@ -48,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+![Screenshot (18)](https://github.com/user-attachments/assets/8f0cc039-7c77-4492-8bb3-f493b2615211)
+
 
 
  
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+ ![Screenshot (19)](https://github.com/user-attachments/assets/b67d11e8-164a-49e4-a03d-546d861590d7)
+
 
 
 
@@ -81,7 +82,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![Screenshot (17)](https://github.com/user-attachments/assets/fcc64af6-71d7-4112-80a0-6421260f6698)
+
 
  
 Analog simulation by SPECTRE.
